@@ -1,6 +1,5 @@
 ## Lab 3: Working with Dependencies
 
-
 ## Introduction
 
 In this lab you will become familar with Go dependencies using them to create a better command-line.
@@ -11,6 +10,10 @@ In this lab you will become familar with Go dependencies using them to create a 
 Starting with lab 2, this lab we will add a dependency to the project using a tool known for better commandline development called [Cobra](https://github.com/spf13/cobra).
 
 > **Note:** This lab assumes you have a solution for lab 2 as a starting point.
+
+## References
+
+* CLI tools: https://awesome-go.com/#command-line
 
 ## Steps
 

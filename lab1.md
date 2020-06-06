@@ -1,11 +1,20 @@
 ## Lab 1: Experiments with Go and Project Setup
 
+## Introduction
 In this lab you will become familar with Go; go run, go build, go test and the Go environment.  In the end, you will understand the project structure for a Go project. 
 
 * Go run, Go doc, Go build
 * Go project Makefile
 * Go linting introduction
 * Go Project structure
+
+## References
+
+* First code: https://golang.org/doc/code.html
+* Project layout:  https://github.com/golang-standards/project-layout
+* Package naming:  https://rakyll.org/style-packages/
+* Go by example: https://gobyexample.com/
+* Awesome Go:  https://awesome-go.com/
 
 ## Getting Familar with Go
 
