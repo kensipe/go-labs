@@ -362,3 +362,27 @@ Error: config file does not exist
 exit status 255
 ```
 
+#### 8: UITable Output
+
+Lets improve the output and lets do it with the expectation that we may increase the number of cities we want to display.  For a table output, UITable is a good library.
+
+from termanal: `go get github.com/gosuri/uitable`
+
+Now lets work with `weather.go` in the `cmd` package.. specifically the `printCityWeather` function.
+
+```go
+	table := uitable.New()
+	table := uitable.New()
+	table.AddRow("City", "Temp", "Desc")
+	table.AddRow(m.City, m.Temp, m.Desc)
+	fmt.Println(table)
+	return nil
+```
+
+Now the output looks like:
+
+```shell
+go run cmd/wman/main.go  weather get Paris
+City 	Temp 	Desc            
+Paris	60.57	scattered clouds
+```
