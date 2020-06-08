@@ -2,7 +2,9 @@
 
 As part of the [NFJS](https://nofluffjuststuff.com/) [virual workshop series](https://nofluffjuststuff.com/virtual-workshops), this repository is the labs for [Go for Java developer workshop](https://nofluffjuststuff.com/virtual-workshops/180/golang_for_java_developers)
 
-This is a series of 7 labs (each one building on the last one), built to solidify the course concepts AND to provide real world insights
+This is a series of 7 labs (each one building on the last one), built to solidify the course concepts AND to provide real world insights.
+
+Demos for the class can be found at: https://github.com/kensipe/golang-demos-nfjs
 
 ### Requirements
 
