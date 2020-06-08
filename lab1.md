@@ -75,11 +75,11 @@ If you have vscode, you will need to add the [go extensions](https://code.visual
 The "Go Way" is within GOPATH where the project is part of the `src` tree.  However Go modules made it possible to leave outside the GOPATH.  The "Go Way" is also to include the full version code path as well.  Assuming the company codementor on github, than github.com/codementor/<project_name> is the way to go.
 
 You have a couple of options:
-* create under GOPATH: `mkdir -p $GOPATH/github.com/codementor/wman` or
+* create under GOPATH: `mkdir -p $GOPATH/src/github.com/codementor/wman` or
 * `mkdir -p github.com/codementor/wman` whenever
 
 The path you choose has consequences... 
-next cd to the directory created ex. `cd $GOPATH/github.com/codementor/wman` 
+next cd to the directory created ex. `cd $GOPATH/src/github.com/codementor/wman` 
 
 Create cmd and pkg folders:  `mkdir -p cmd/wman` and `mkdir pkg`
 
