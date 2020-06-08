@@ -173,3 +173,9 @@ Left out are folders such as:
 * config
 * dist
 As well as configurations for CI and Release
+
+## Lab Solution
+
+https://github.com/codementor/wman/tree/lab1-solution
+
+Clone:  `git clone -b lab1-solution https://github.com/codementor/wman.git`

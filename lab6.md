@@ -7,6 +7,7 @@ In this lab you will level up on Go structs and our use of Cobra CLI,  along wit
 * Structs 
 * JSON Encoding / Decoding
 * HTTP Requests
+* UITable
 
 > **Note:** This lab assumes you have a solution for lab 5 as a starting point.
 
