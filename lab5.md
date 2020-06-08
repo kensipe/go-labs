@@ -196,3 +196,9 @@ type Config struct {
 ```
 
 **note:** this can seem unsual to a Java dev... The meaningful name of a struct includes its package.   This is read as `weather.Config`.  The change to this struct requires changes in all callers.  We write code and name structs in Go from the calling client perspective and as much as possible without "stuttering".  `weather.WeatherConfig` is an example of a strutter we try to avoid.
+
+## Lab Solution
+
+https://github.com/codementor/wman/tree/lab5-solution
+
+Clone:  `git clone -b lab5-solution https://github.com/codementor/wman.git`

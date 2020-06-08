@@ -126,3 +126,9 @@ Run main:
 go run cmd/wman/main.go NoFluff
 hello NoFluff, your name backward is "ffulFoN"
 ```
+
+## Lab Solution
+
+https://github.com/codementor/wman/tree/lab2-solution
+
+Clone:  `git clone -b lab2-solution https://github.com/codementor/wman.git`

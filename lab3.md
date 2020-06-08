@@ -260,3 +260,15 @@ The logic in `print.go` changes to:
 	fmt.Printf("Hello %q\n", name)
 	return nil
 ```
+
+## Lab Solution
+
+https://github.com/codementor/wman/tree/lab3-solution
+
+Clone:  `git clone -b lab3-solution https://github.com/codementor/wman.git`
+
+and 
+
+https://github.com/codementor/wman/tree/lab3-with-bonus-solution
+
+Clone:  `git clone -b lab3-with-bonus-solution https://github.com/codementor/wman.git`

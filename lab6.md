@@ -386,3 +386,9 @@ go run cmd/wman/main.go  weather get Paris
 City 	Temp 	Desc            
 Paris	60.57	scattered clouds
 ```
+
+## Lab Solution
+
+https://github.com/codementor/wman/tree/lab6-solution
+
+Clone:  `git clone -b lab6-solution https://github.com/codementor/wman.git`

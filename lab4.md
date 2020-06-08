@@ -239,3 +239,10 @@ run `make test`
 run `make integration-test`
 
 What is the difference?
+
+
+## Lab Solution
+
+https://github.com/codementor/wman/tree/lab4-solution
+
+Clone:  `git clone -b lab4-solution https://github.com/codementor/wman.git`

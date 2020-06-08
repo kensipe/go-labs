@@ -329,3 +329,9 @@ func (f *Fetcher) GetCities(cities []string) (Models, error) {
 	return ml, nil
 }
 ```
+
+## Lab Solution
+
+https://github.com/codementor/wman/tree/lab7-solution
+
+Clone:  `git clone -b lab7-solution https://github.com/codementor/wman.git`
