@@ -20,7 +20,7 @@ Starting with lab 2, this lab we will add a dependency to the project using a to
 #### 1: Add the cobra dependency to the project
 
 From the root of the project:
-`go get -u github.com/spf13/cobra/cobra`
+`go get -u github.com/spf13/cobra`
 
 **note:** need help understanding `go get`?  checkout out `go help get`
 
