@@ -12,6 +12,7 @@ Demos for the class can be found at: https://github.com/kensipe/golang-demos-nfj
 * [git](https://git-scm.com/downloads)
 * apikey from https://openweathermap.org/api 
 * Go Editor.  If new we recommend [VSCode](https://code.visualstudio.com/) and/or [Goland](https://www.jetbrains.com/go/promo/)
+* `make` - Projects are built with `make`.  We can work around for non-make users.
 
 > Please get the apikey early in the course as provisioning a key can take time.
 
