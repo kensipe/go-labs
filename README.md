@@ -8,11 +8,12 @@ Demos for the class can be found at: https://github.com/kensipe/golang-demos-nfj
 
 ### Requirements
 
-* Go 1.13+ (Go 1.14 used to build course)
-* git
+* [Go](https://go.dev/doc/install) 1.18 (Go 1.13+ is the base requirement for these labs)
+* [git](https://git-scm.com/downloads)
 * apikey from https://openweathermap.org/api 
+* Go Editor.  If new we recommend [VSCode](https://code.visualstudio.com/) and/or [Goland](https://www.jetbrains.com/go/promo/)
 
-> Please get the apikey early in the course. provisioning a key can take time.
+> Please get the apikey early in the course as provisioning a key can take time.
 
 Solutions at: https://github.com/codementor/wman/ with solution branches for each lab.
 
