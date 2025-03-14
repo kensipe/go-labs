@@ -93,7 +93,7 @@ From the project root, test the project: `go test pkg/...`
 
 #### 8. Adding a Linter
 
-Download a linter:  ` go get github.com/golangci/golangci-lint/cmd/golangci-lint@v1.23.8`
+Download a linter:  `go install github.com/golangci/golangci-lint/cmd/golangci-lint@v1.46.2`
 
 Lets add linting (it will make you a better go dev!)
 Create a file: `.golangci.yml` adding:
